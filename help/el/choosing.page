@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="select" xml:lang="el">
+      
+  <info>
+    <link type="guide" xref="index#using"/>
+    <!--desc><app>Mahjongg</app> lets you play with many different boards.</desc-->
+    <revision pkgversion="3.4" version="0.1" date="2012-03-08" status="final"/>
+   <credit type="author">
+    <name>Chris Beiser</name>
+    <email>ctbeiser@gmail.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τζένη Πετούμενου</mal:name>
+      <mal:email>epetoumenou@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τουρνάρης Παύλος</mal:name>
+      <mal:email>p.tournaris@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Θάνος Τρυφωνίδης</mal:name>
+      <mal:email>tomtryf@gmail.com</mal:email>
+      <mal:years>2012</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Επιλογή πίνακα</title>
+
+  <p>
+  </p>
+</page>

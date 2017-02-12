@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="toolbar" xml:lang="fr">
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <revision pkgversion="3.5.4" version="0.2" date="2012-07-26" status="final"/>
+    <credit type="author copyright">
+      <name>Tiffany Antopolski</name>
+      <email>tiffany.antopolski@gmail.com</email>
+      <years>2011</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Ekaterina Gerasimova</name>
+      <email>kittykat3756@gmail.com</email>
+    </credit>
+
+    <desc/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Claude Paroz</mal:name>
+      <mal:email>claude@2xlibre.net</mal:email>
+      <mal:years>2007-2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Bruno Brouard</mal:name>
+      <mal:email>annoa.b@gmail.com</mal:email>
+      <mal:years>2008-2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Laurent Coudeur</mal:name>
+      <mal:email>laurentc@iol.ie</mal:email>
+      <mal:years>2012</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Affichage/masquage de la barre d'outils</title>
+
+  <p>Pour afficher ou cacher la barre d'outils, cliquez sur <guiseq><gui>Mahjongg</gui><gui>Barre d'outils</gui></guiseq>.</p>
+
+  <p>La barre d'outils, située sous la barre des menus, vous permet d'effectuer les actions courantes avec la souris. Pour utiliser un élément de la barre d'outils, cliquez sur celui-ci. Les boutons, de la gauche vers la droite, sont : <gui>Nouveau</gui> jeu, <gui>Annuler le déplacement</gui>, <gui>Refaire le déplacement</gui>, <link xref="hints">Astuce</link> et <gui>Pause</gui>.</p>
+
+</page>

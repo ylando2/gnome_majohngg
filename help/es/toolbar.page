@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="toolbar" xml:lang="es">
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <revision pkgversion="3.5.4" version="0.2" date="2012-07-26" status="final"/>
+    <credit type="author copyright">
+      <name>Tiffany Antopolski</name>
+      <email>tiffany.antopolski@gmail.com</email>
+      <years>2011</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Ekaterina Gerasimova</name>
+      <email>kittykat3756@gmail.com</email>
+    </credit>
+
+    <desc/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011-2012</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jorge González</mal:name>
+      <mal:email>jorgegonz@svn.gnome.org</mal:email>
+      <mal:years>2007-2009</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Mostrar/ocultar la barra de herramientas</title>
+
+  <p>Para mostrar u ocultar la barra de herramientas, pulse en <guiseq><gui>Mahjongg</gui><gui>Barra de herramientas</gui></guiseq>.</p>
+
+  <p>La barra de herramientas, situada debajo de la barra de menú, le permite realizar ciertas acciones comunes con el ratón. Para usar un elemento de la barra de herramientas, simplemente púlselo. Los botones, de izquierda a derecha, son juego <gui>Nuevo</gui>, <gui>Deshacer movimiento</gui>, <link xref="hints">Sugerencia</link> y <gui>Pausa</gui>.</p>
+
+</page>

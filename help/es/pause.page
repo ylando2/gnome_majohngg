@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="startstop" xml:lang="es">
+      
+  <info>
+    <link type="guide" xref="index#tips"/>
+    
+    <revision pkgversion="3.4" version="0.1" date="2012-03-08" status="final"/>
+    <credit type="author">
+      <name>Chris Beiser</name>
+      <email>ctbeiser@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email>mdhillca@gmail.com</email>
+     </credit>
+     <credit type="editor">
+       <name>Ekaterina Gerasimova</name>
+       <email>kittykat3756@gmail.com</email>
+     </credit>
+    <license>
+      <p>Creative Commons Compartir Igual 3.0</p>
+    </license>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011-2012</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Jorge González</mal:name>
+      <mal:email>jorgegonz@svn.gnome.org</mal:email>
+      <mal:years>2007-2009</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Pausar el juego</title>
+  
+  <p>Puede pausar el juego actual usando uno de los siguientes métodos:</p>
+
+  <list>
+    <item>
+      <p>El botón <gui>Pausa</gui> en la <link xref="toolbar">barra de herramientas</link>.</p>
+    </item>
+  <comment>
+    <cite date="2012-07-26" href="mailto:kittykat3756@gmail.com">Kat</cite>
+    <p>The following two items do not work in 3.5.4</p>
+  </comment>
+<!--    <item>
+      <p>The <key>Pause</key> key on your keyboard. Not all keyboards have
+      this key.</p>
+    </item>
+    <item>
+      <p>The <link xref="shortcuts">keyboard shortcut</link>.</p>
+    </item>-->
+  </list>
+</page>

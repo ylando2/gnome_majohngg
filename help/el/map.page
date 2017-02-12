@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="map" xml:lang="el">
+  <info>
+    <link type="guide" xref="index#play"/>
+    <revision pkgversion="3.5.4" version="0.2" date="2012-07-26" status="final"/>
+
+    <credit type="author copyright">
+      <name>Tiffany Antopolski</name>
+      <email>tiffany.antopolski@gmail.com</email>
+      <years>2012</years>
+    </credit>
+    <credit type="editor">
+      <name>Ekaterina Gerasimova</name>
+      <email>kittykat3756@gmail.com</email>
+      <years>2012</years>
+    </credit>
+
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τζένη Πετούμενου</mal:name>
+      <mal:email>epetoumenou@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τουρνάρης Παύλος</mal:name>
+      <mal:email>p.tournaris@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Θάνος Τρυφωνίδης</mal:name>
+      <mal:email>tomtryf@gmail.com</mal:email>
+      <mal:years>2012</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Αλλαγή διάταξης πλακιδίων</title>
+
+  <p>Υπάρχουν 9 διαφορετικές διατάξεις. Για να επιλέξετε μια διαφορετική διάταξη πλακιδίων:</p>
+
+  <steps>
+    <item><p>Κάντε κλικ στο <guiseq><gui>Ματζόνγκ</gui><gui>Προτιμήσεις</gui></guiseq>.</p></item>
+    <item><p>Επιλέξτε μια διάταξη κάτω από το κατακόρυφο μενού <gui>Χάρτες</gui>.</p></item>
+    <item><p>Πατήστε <gui>Κλείσιμο</gui>.</p></item>
+  </steps>
+
+  <p>Η νέα σας διάταξη θα ενεργοποιηθεί αμέσως εκτός αν έχετε ήδη ξεκινήσει ένα παιχνίδι και επιλέξατε να ενεργοποιηθεί μετά το τέλος του παιχνιδιού.</p>
+
+<table>
+ <tr>
+   <td>
+  <media type="image" src="figures/layout-easy.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-ziggurat.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-bridges.png" width="200">
+    <p/>
+  </media>
+    </td>
+   </tr>
+   <tr>
+     <td><p><em>Εύκολο</em></p></td>
+     <td><p><em>Ζιγκουράτ</em></p></td>
+     <td><p><em>Τέσσερις γέφυρες</em></p></td>
+   </tr>
+</table>
+
+<table>
+ <tr>
+   <td>
+  <media type="image" src="figures/layout-cloud.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-tic-tac-toe.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-red-dragon.png" width="200">
+    <p/>
+  </media>
+    </td>
+   </tr>
+   <tr>
+     <td><p><em>Σύννεφο</em></p></td>
+     <td><p><em>Τρίλιζα</em></p></td>
+     <td><p><em>Κόκκινος δράκος</em></p></td>
+   </tr>
+</table>
+
+<table>
+ <tr>
+   <td>
+  <media type="image" src="figures/layout-pyramid-walls.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-conf-cross.png" width="200">
+    <p/>
+  </media>
+   </td>
+   <td>
+  <media type="image" src="figures/layout-difficult.png" width="200">
+    <p/>
+  </media>
+    </td>
+   </tr>
+   <tr>
+     <td><p><em>Τοίχοι της πυραμίδας</em></p></td>
+     <td><p><em>Σταυρός</em></p></td>
+     <td><p><em>Δύσκολο</em></p></td>
+   </tr>
+</table>
+
+</page>

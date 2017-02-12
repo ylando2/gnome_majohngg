@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="bug-filing" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#get-involved"/>
+    <link type="seealso" xref="commandline"/>
+    <revision pkgversion="3.4" version="0.1" date="2012-03-08" status="final"/>
+    <credit type="editor copyright">
+      <name>Tiffany Antopolski</name>
+      <email>tiffany@antopolski.com</email>
+      <years>2011</years>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τζένη Πετούμενου</mal:name>
+      <mal:email>epetoumenou@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τουρνάρης Παύλος</mal:name>
+      <mal:email>p.tournaris@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Θάνος Τρυφωνίδης</mal:name>
+      <mal:email>tomtryf@gmail.com</mal:email>
+      <mal:years>2012</mal:years>
+    </mal:credit>
+  </info>
+
+<title>Αναφορά ενός προβλήματος</title>
+<p>Το <app>Ματζόνγκ</app> διατηρείται από μια εθελοντική κοινότητα. Είστε ευπρόσδεκτοι να συμμετάσχετε. Αν παρατηρήσετε κάποιο πρόβλημα μπορείτε να κάνετε μια <em>αναφορά σφάλματος (bug report)</em>. Για να κάνετε αναφορά σφάλματος πηγαίνετε <link href="https://bugzilla.gnome.org/"/>.</p>
+   <p>Αυτό είναι ένα σύστημα καταγραφής σφαλμάτων όπου χρήστες και προγραμματιστές μπορούν να κάνουν αναφορές για σφάλματα, «κρασαρίσματα» και βελτιώσεις.</p>
+   <p>Για να λάβετε μέρος χρειάζεστε ένα λογαριασμό που θα σας δώσει πρόσβαση, να κάνετε αναφορές σφαλμάτων καθώς και σχόλια. Επίσης, πρέπει να εγγραφείτε για να δέχεστε ενημερώσεις μέσω ηλεκτρονικού ταχυδρομείου για την κατάσταση του σφάλματος σας. Εάν δεν έχετε ήδη λογαριασμό, απλά πατήστε <gui>Νέος λογαριασμός</gui> για να δημιουργήσετε.</p>
+
+  <p>Once you have an account, log in, click on <guiseq><gui>File a
+  Bug</gui><gui>Applications</gui><gui>gnome-mahjongg</gui></guiseq>. Before
+  reporting a bug, please read the
+  <link href="https://bugzilla.gnome.org/page.cgi?id=bug-writing.html">bug
+  writing guidelines</link>, and please
+  <link href="https://bugzilla.gnome.org/browse.cgi?product=gnome-mahjongg">browse</link>
+  for the bug to see if it already exists.</p>
+
+   <p>Αν θέλετε κάποιο καινούργιο χαρακτηριστικό, διαλέξτε <gui>enhancement</gui> στο μενού <gui>Severity</gui>. Συμπληρώστε την Περίληψη και την Περιγραφή και πατήστε <gui>Commit</gui>.</p>
+   <p>Θα δοθεί ένας αριθμός ID στην αναφορά σας, και η κατάσταση του θα ενημερωθεί σαν να αντιμετωπίστηκε.</p>
+</page>

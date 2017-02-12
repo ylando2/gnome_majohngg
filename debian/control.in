@@ -1,0 +1,46 @@
+Source: gnome-mahjongg
+Section: games
+Priority: optional
+Maintainer: Josselin Mouette <joss@debian.org>
+Uploaders: @GNOME_TEAM@
+Homepage: https://live.gnome.org/Mahjongg
+Build-Depends: cdbs (>= 0.4.90~),
+               debhelper (>= 8),
+               dh-autoreconf,
+               gnome-common,
+               gnome-pkg-tools,
+               intltool (>= 0.35.0),
+               libglib2.0-dev,
+               libgtk-3-dev (>= 3.4.0),
+               librsvg2-dev (>= 2.32.0),
+               valac (>= 0.18),
+               yelp-tools
+Standards-Version: 3.9.4
+Vcs-Svn: svn://anonscm.debian.org/svn/pkg-gnome/desktop/unstable/gnome-mahjongg
+Vcs-Browser: http://anonscm.debian.org/viewvc/pkg-gnome/desktop/unstable/gnome-mahjongg/
+
+Package: gnome-mahjongg
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends}
+Recommends: yelp
+Breaks: mahjongg (<< 1:3.7.2)
+Replaces: mahjongg (<< 1:3.7.2)
+Description: classic Eastern tile game for GNOME
+ This is a solitaire (one player) version of the classic Eastern tile 
+ game, Mahjongg.
+ .
+ You start with five levels of tiles which are stacked so some are 
+ covered up by the tiles on top. The object of Mahjongg is to remove all 
+ the tiles from the game, by finding matching pairs which look alike.
+
+Package: mahjongg
+Architecture: all
+Priority: extra
+Section: oldlibs
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         gnome-mahjongg
+Description: classic Eastern tile game for GNOME (transitional package)
+ This is a solitaire (one player) version of the classic Eastern tile 
+ game, Mahjongg.

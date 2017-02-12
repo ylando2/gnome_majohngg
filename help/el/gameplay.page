@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="gameplay" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#play"/>
+    <revision pkgversion="3.5.4" version="0.2" date="2012-07-26" status="final"/>
+   <credit type="author">
+    <name>Chris Beiser</name>
+    <email>ctbeiser@gmail.com</email>
+   </credit>
+   <credit type="editor">
+     <name>Tiffany Antopolski</name>
+     <email>tiffany.antopolski@gmail.com</email>
+   </credit>
+   <credit type="editor">
+     <name>Ekaterina Gerasimova</name>
+     <email>kittykat3756@gmail.com</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τζένη Πετούμενου</mal:name>
+      <mal:email>epetoumenou@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Τουρνάρης Παύλος</mal:name>
+      <mal:email>p.tournaris@gmail.com</mal:email>
+      <mal:years>2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Θάνος Τρυφωνίδης</mal:name>
+      <mal:email>tomtryf@gmail.com</mal:email>
+      <mal:years>2012</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Βασικό παιχνίδι</title>
+
+  <p>Το Ματζόνγκ παίζεται με το ταίριασμα δύο όμοιων πλακιδίων ανά σειρά. Ένα πλακίδιο είναι επιλέξιμο για ταίριασμα εάν κανένα μέρος ενός  άλλου πλακίδιο βρίσκεται πάνω σε αυτό, και έχει μια μεγάλη ελεύθερη άκρη είτε αριστερά ή δεξιά. Θα κερδίσετε αφαιρώντας όλα τα πλακίδια, και θα βαθμολογηθείτε από το ποσό του χρόνου που θα χρειαστείτε να κάνετε κάτι τέτοιο.</p>
+
+  <p>Υπάρχουν πολλές διαφορετικές <link xref="map">διατάξεις πλακιδίων</link> για να διαλέξετε.</p>
+
+  <p>Για να αντιστοιχίσετε δύο πλακίδια:</p>
+
+  <steps>
+    <item>
+      <p>Κάντε κλικ στο πλακίδιο που θέλετε να ταιριάξετε. Αν είναι επιλέξιμο, τότε θα επισημανθεί.</p>
+    </item>
+    <item>
+      <p>Κάντε κλικ σε ένα πλακίδιο που ταιριάζει. Αν πραγματικά είναι ταίρι, τα δύο πλακίδια θα εξαφανιστούν.</p>
+    </item>
+  </steps>
+
+  <section id="usage-video">
+  <title>Βίντεο επίδειξης</title>
+
+  <media type="video" mime="application/ogg" src="figures/mahjongg-video.ogv"><p>Βίντεο παιξίματος του παιχνιδιού</p></media>
+
+  </section>
+</page>

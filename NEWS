@@ -1,0 +1,68 @@
+GNOME Mahjongg 3.10.2
+=====================
+
+* Sort scores by duration of the game
+* Russian translation updates
+
+GNOME Mahjongg 3.10.1
+=====================
+
+* Translation updates
+
+GNOME Mahjongg 3.10.0
+=====================
+
+* Translation updates
+
+GNOME Mahjongg 3.9.92
+=====================
+
+* Fix Redo sometimes removing too many pieces
+* Fix map label on scores dialog
+* Add an appdata file
+* Translation updates
+
+GNOME Mahjongg 3.9.90
+=====================
+
+* Fix bug where the pause button could incorrectly display a "play" icon
+* Fix name of application menu when not launched by GNOME Shell
+* Fix two broken links in user help
+* App menu now uses a UI file and is installed into a gresource
+* Translation updates
+
+gnome-mahjongg 3.8.0
+====================
+
+ * Translation updates
+
+gnome-mahjongg 3.7.92
+=====================
+
+ * Renamed desktop file back to mahjongg.desktop
+ * Themes from gnome-games-extra-data added
+ * High contrast icons added
+ * Translation updates
+
+gnome-mahjongg 3.7.90
+=====================
+
+ * Translation updates
+
+gnome-mahjongg 3.7.5
+====================
+
+ * Added keywords to .desktop file
+ * Translation updates
+
+gnome-mahjongg 3.7.4
+====================
+
+ * Translations
+
+Contributions by: Piotr Drąg
+
+gnome-mahjongg 3.7.0
+====================
+
+First release split from gnome-games

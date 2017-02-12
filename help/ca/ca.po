@@ -1,0 +1,863 @@
+# Traducció de la documentació del blackjack de l'equip de Softcatalà.
+# Copyright © 2009 Free Software Foundation, Inc.
+# Joan Duran <jodufi@gmail.com>, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mahjongg\n"
+"POT-Creation-Date: 2013-04-17 19:33+0000\n"
+"PO-Revision-Date: 2013-06-02 16:56+0200\n"
+"Last-Translator: Joan Duran <jodufi@gmail.com>\n"
+"Language-Team: Catalan <tradgnome@softcatala.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bits\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Joan Duran <jodufi@gmail.com>, 2008, 2009"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:7(media)
+msgctxt "_"
+msgid "external ref='figures/logo.png' md5='30e7c21f9d7f9d2b8f129a27cdc5b8e4'"
+msgstr "external ref='figures/logo.png' md5='30e7c21f9d7f9d2b8f129a27cdc5b8e4'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/logo32.png' md5='f93d76f0d72fabf20ba014de92694458'"
+msgstr ""
+"external ref='figures/logo32.png' md5='f93d76f0d72fabf20ba014de92694458'"
+
+#: C/index.page:8(info/title)
+msgctxt "link"
+msgid "Mahjongg"
+msgstr "Mahjongg"
+
+#: C/index.page:9(info/title)
+msgctxt "text"
+msgid "Mahjongg"
+msgstr "Mahjongg"
+
+#: C/index.page:10(info/desc)
+msgid "GNOME Mahjongg help."
+msgstr "Ajuda del Mahjongg del GNOME."
+
+#: C/index.page:13(credit/name) C/choosing.page:10(credit/name)
+#: C/gameplay.page:9(credit/name) C/hints.page:9(credit/name)
+#: C/moves.page:10(credit/name) C/pause.page:10(credit/name)
+#: C/rules.page:9(credit/name) C/scoring.page:9(credit/name)
+#: C/shortcuts.page:10(credit/name)
+msgid "Chris Beiser"
+msgstr "Chris Beiser"
+
+#: C/index.page:17(license/p) C/bug-filing.page:15(license/p)
+#: C/choosing.page:14(license/p) C/develop.page:15(license/p)
+#: C/documentation.page:13(license/p) C/gameplay.page:21(license/p)
+#: C/hints.page:25(license/p) C/moves.page:18(license/p)
+#: C/pause.page:22(license/p) C/rules.page:21(license/p)
+#: C/scoring.page:17(license/p) C/shortcuts.page:18(license/p)
+#: C/translate.page:23(license/p)
+msgid "Creative Commons Share Alike 3.0"
+msgstr "Creative Commons Compartir Igual 3.0"
+
+#: C/index.page:21(page/title)
+msgid ""
+"<media type=\"image\" src=\"figures/logo32.png\">Mahjongg logo</"
+"media>Mahjongg"
+msgstr ""
+"<media type=\"image\" src=\"figures/logo32.png\">Logotip del Mahjongg</"
+"media>Mahjongg"
+
+#: C/index.page:22(page/p)
+msgid ""
+"Mahjongg is a simple pattern recognition game. You score points by matching "
+"identical tiles."
+msgstr ""
+
+#: C/index.page:27(section/title)
+msgid "Playing Mahjongg"
+msgstr "Jugar al Mahjongg"
+
+#: C/index.page:31(section/title)
+msgid "Useful tips"
+msgstr "Consells útils"
+
+#: C/index.page:36(section/title)
+msgid "Advanced"
+msgstr "Avançat"
+
+#: C/index.page:40(section/title)
+msgid "Get involved"
+msgstr ""
+
+#: C/bug-filing.page:10(credit/name) C/develop.page:10(credit/name)
+#: C/documentation.page:8(credit/name) C/gameplay.page:13(credit/name)
+#: C/hints.page:13(credit/name) C/map.page:9(credit/name)
+#: C/rules.page:13(credit/name) C/strategy.page:9(credit/name)
+#: C/toolbar.page:8(credit/name) C/translate.page:10(credit/name)
+msgid "Tiffany Antopolski"
+msgstr "Tiffany Antopolski"
+
+#: C/bug-filing.page:12(credit/years) C/develop.page:12(credit/years)
+#: C/documentation.page:10(credit/years) C/toolbar.page:10(credit/years)
+#: C/translate.page:12(credit/years)
+msgid "2011"
+msgstr "2011"
+
+#: C/bug-filing.page:19(page/title)
+msgid "Report a Problem"
+msgstr ""
+
+#: C/bug-filing.page:20(page/p)
+msgid ""
+"<app>Mahjongg</app> is maintained by a volunteer community. You are welcome "
+"to participate. If you notice a problem you can file a <em>bug report</em>. "
+"To file a bug, go to <link href=\"https://bugzilla.gnome.org/\"/>."
+msgstr ""
+
+#: C/bug-filing.page:23(page/p)
+msgid ""
+"This is a bug tracking system where users and developers can file details "
+"about bugs, crashes and request enhancements."
+msgstr ""
+
+#: C/bug-filing.page:26(page/p)
+msgid ""
+"To participate you need an account which will give you the ability to gain "
+"access, file bugs, and make comments. Also, you need to register so you can "
+"receive updates by e-mail about the status of your bug. If you don't already "
+"have an account, just click on the <gui>New Account</gui> link to create one."
+msgstr ""
+
+#: C/bug-filing.page:30(page/p)
+msgid ""
+"Once you have an account, log in, click on <guiseq><gui>File a Bug</"
+"gui><gui>Applications</gui><gui>gnome-mahjongg</gui></guiseq>. Before "
+"reporting a bug, please read the <link href=\"https://bugzilla.gnome.org/"
+"page.cgi?id=bug-writing.html\">bug writing guidelines</link>, and please "
+"<link href=\"https://bugzilla.gnome.org/browse.cgi?product=gnome-mahjongg"
+"\">browse</link> for the bug to see if it already exists."
+msgstr ""
+
+#: C/bug-filing.page:38(page/p)
+msgid ""
+"If you are requesting a new feature, choose <gui>enhancement</gui> in the "
+"<gui>Severity</gui> menu. Fill in the Summary and Description sections and "
+"click <gui>Commit</gui>."
+msgstr ""
+
+#: C/bug-filing.page:42(page/p)
+msgid ""
+"Your report will be given an ID number, and its status will be updated as it "
+"is being dealt with."
+msgstr ""
+
+#: C/choosing.page:18(page/title)
+msgid "Select a board"
+msgstr ""
+
+#: C/develop.page:19(page/title)
+msgid "Help develop"
+msgstr ""
+
+#: C/develop.page:20(page/p)
+msgid ""
+"The <app>GNOME Games</app> are developed and maintained by a volunteer "
+"community. You are welcome to participate."
+msgstr ""
+
+#: C/develop.page:23(page/p)
+msgid ""
+"If you would like to <link href=\"https://live.gnome.org/GnomeGames/"
+"Contributing\">help develop <app>GNOME Games</app></link>, you can get in "
+"touch with the developers using <link href=\"https://cbe005.chat.mibbit.com/?"
+"url=irc%3A%2F%2Firc.gnome.org%2Fgnome-games\">irc</link>, or via our <link "
+"href=\"http://mail.gnome.org/mailman/listinfo/games-list\">mailing list</"
+"link>."
+msgstr ""
+
+#: C/documentation.page:17(page/title)
+msgid "Help write documentation"
+msgstr ""
+
+#: C/documentation.page:19(page/p)
+msgid ""
+"The <app>GNOME Games</app> documentation is maintained by a volunteer "
+"community. You are welcome to participate."
+msgstr ""
+
+#: C/documentation.page:22(page/p)
+msgid ""
+"To contribute to the Documentation Project, feel free to get in touch with "
+"us using <link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc."
+"gnome.org%2Fdocs\">irc</link>, or via our <link href=\"http://mail.gnome.org/"
+"mailman/listinfo/gnome-doc-list\">mailing list</link>."
+msgstr ""
+
+#: C/documentation.page:24(page/p)
+msgid ""
+"Our <link href=\"https://live.gnome.org/DocumentationProject/Contributing"
+"\">wiki</link> page contains useful information."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gameplay.page:53(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/mahjongg-video.ogv' "
+"md5='9d16f43fafcb0a80a1fc2afb00f7eb32'"
+msgstr ""
+"external ref='figures/mahjongg-video.ogv' "
+"md5='9d16f43fafcb0a80a1fc2afb00f7eb32'"
+
+#: C/gameplay.page:17(credit/name) C/hints.page:21(credit/name)
+#: C/map.page:14(credit/name) C/pause.page:18(credit/name)
+#: C/scoring.page:13(credit/name) C/toolbar.page:17(credit/name)
+#: C/translate.page:19(credit/name)
+msgid "Ekaterina Gerasimova"
+msgstr "Ekaterina Gerasimova"
+
+#: C/gameplay.page:25(page/title)
+msgid "Basic gameplay"
+msgstr ""
+
+#: C/gameplay.page:27(page/p)
+msgid ""
+"Mahjongg is played by matching two identical tiles per turn. A tile is "
+"eligible for matching if no part of another tile is lying directly on it, "
+"and it has a free long edge on either the left or the right. You win by "
+"removing all tiles, and you are scored by the amount of time it takes you to "
+"do so."
+msgstr ""
+
+#: C/gameplay.page:33(page/p)
+msgid ""
+"There are many different <link xref=\"map\">tile layouts</link> to choose "
+"from."
+msgstr ""
+
+#: C/gameplay.page:36(page/p)
+msgid "To match two tiles:"
+msgstr ""
+
+#: C/gameplay.page:40(item/p)
+msgid ""
+"Click on the a tile you want to match. If it is an eligible tile, it will be "
+"highlighted."
+msgstr ""
+
+#: C/gameplay.page:44(item/p)
+msgid ""
+"Click on a matching tile. If it is a truly a matching tile, both tiles will "
+"vanish."
+msgstr ""
+
+#: C/gameplay.page:50(section/title) C/hints.page:47(section/title)
+msgid "Video demonstration"
+msgstr ""
+
+#: C/gameplay.page:53(media/p)
+msgid "Video of gameplay"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/hints.page:48(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/hints-video.ogv' md5='128295113f1b22493193997d105f325e'"
+msgstr ""
+"external ref='figures/hints-video.ogv' md5='128295113f1b22493193997d105f325e'"
+
+#: C/hints.page:17(credit/name) C/moves.page:14(credit/name)
+#: C/pause.page:14(credit/name) C/rules.page:17(credit/name)
+#: C/shortcuts.page:14(credit/name) C/strategy.page:14(credit/name)
+#: C/toolbar.page:13(credit/name) C/translate.page:15(credit/name)
+msgid "Michael Hill"
+msgstr "Michael Hill"
+
+#: C/hints.page:29(page/title)
+msgid "Hints"
+msgstr "Pistes"
+
+#: C/hints.page:31(page/p)
+msgid ""
+"<gui>Hint</gui> highlights two tiles that can be matched. If you have "
+"already selected one tile, it will show a match for that piece if one exists."
+msgstr ""
+
+#: C/hints.page:35(page/p)
+msgid ""
+"<gui>Hint</gui> can be accessed by clicking <guiseq><gui>Mahjongg</"
+"gui><gui>Hint</gui></guiseq>. Alternatively, use the <gui>Hint</gui> button "
+"in the <link xref=\"toolbar\">toolbar</link>, or press <keyseq><key>Ctrl</"
+"key><key>H</key></keyseq>."
+msgstr ""
+
+#: C/hints.page:41(note/p)
+msgid ""
+"<gui>Hint</gui> can make Mahjongg too easy, and should be used sparingly."
+msgstr ""
+
+#: C/hints.page:43(note/p)
+msgid "There is a 30-second penalty for each use of the \"hint\" option."
+msgstr ""
+
+#: C/hints.page:52(div/p)
+msgid "You can use <gui>Hints</gui> to help you find identical tiles."
+msgstr ""
+
+#: C/hints.page:57(div/p)
+msgid "Press <keyseq><key>Ctrl</key><key>H</key></keyseq>."
+msgstr ""
+
+#: C/hints.page:62(div/p)
+msgid "There is a 30 s penalty for each use of this option."
+msgstr ""
+
+#: C/legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr ""
+
+#: C/legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr ""
+
+#: C/license.page:8(info/desc)
+msgid "Legal information."
+msgstr "Informació legal."
+
+#: C/license.page:11(page/title)
+msgid "License"
+msgstr "Llicència"
+
+#: C/license.page:12(page/p)
+msgid ""
+"This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 "
+"Unported license."
+msgstr ""
+
+#: C/license.page:20(page/p)
+msgid "You are free:"
+msgstr ""
+
+#: C/license.page:25(item/title)
+msgid "<em>To share</em>"
+msgstr ""
+
+#: C/license.page:26(item/p)
+msgid "To copy, distribute and transmit the work."
+msgstr ""
+
+#: C/license.page:29(item/title)
+msgid "<em>To remix</em>"
+msgstr ""
+
+#: C/license.page:30(item/p)
+msgid "To adapt the work."
+msgstr ""
+
+#: C/license.page:33(page/p)
+msgid "Under the following conditions:"
+msgstr ""
+
+#: C/license.page:38(item/title)
+msgid "<em>Attribution</em>"
+msgstr ""
+
+#: C/license.page:39(item/p)
+msgid ""
+"You must attribute the work in the manner specified by the author or "
+"licensor (but not in any way that suggests that they endorse you or your use "
+"of the work)."
+msgstr ""
+
+#: C/license.page:46(item/title)
+msgid "<em>Share Alike</em>"
+msgstr ""
+
+#: C/license.page:47(item/p)
+msgid ""
+"If you alter, transform, or build upon this work, you may distribute the "
+"resulting work only under the same, similar or a compatible license."
+msgstr ""
+
+#: C/license.page:53(page/p)
+msgid ""
+"For the full text of the license, see the <link href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/legalcode\">CreativeCommons website</"
+"link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Commons Deed</link>."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:40(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-easy.png' md5='188554f9efd15abd2acd1444279970cf'"
+msgstr ""
+"external ref='figures/layout-easy.png' md5='188554f9efd15abd2acd1444279970cf'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:45(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-ziggurat.png' "
+"md5='ed517c52a0b87c66e64d8fa4db66f9ea'"
+msgstr ""
+"external ref='figures/layout-ziggurat.png' "
+"md5='ed517c52a0b87c66e64d8fa4db66f9ea'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:50(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-bridges.png' "
+"md5='f7b1ee53a56a2d2dd44564c5b497f766'"
+msgstr ""
+"external ref='figures/layout-bridges.png' "
+"md5='f7b1ee53a56a2d2dd44564c5b497f766'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:65(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-cloud.png' "
+"md5='7a33babaa2335c6520f07ef5d0f346ac'"
+msgstr ""
+"external ref='figures/layout-cloud.png' "
+"md5='7a33babaa2335c6520f07ef5d0f346ac'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:70(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-tic-tac-toe.png' "
+"md5='36e306ca40222e92694d69a7fd6e33d6'"
+msgstr ""
+"external ref='figures/layout-tic-tac-toe.png' "
+"md5='36e306ca40222e92694d69a7fd6e33d6'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:75(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-red-dragon.png' "
+"md5='db5551bcc44c4a4fb879bd7b5179d1f2'"
+msgstr ""
+"external ref='figures/layout-red-dragon.png' "
+"md5='db5551bcc44c4a4fb879bd7b5179d1f2'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:90(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-pyramid-walls.png' "
+"md5='ae9c551967f4d7280d5d875c0491ae67'"
+msgstr ""
+"external ref='figures/layout-pyramid-walls.png' "
+"md5='ae9c551967f4d7280d5d875c0491ae67'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:95(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-conf-cross.png' "
+"md5='3d81154393ca2db223d7f61c905c3a17'"
+msgstr ""
+"external ref='figures/layout-conf-cross.png' "
+"md5='3d81154393ca2db223d7f61c905c3a17'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/map.page:100(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/layout-difficult.png' "
+"md5='c38bb2ada00187cdb40b59eae1476cdd'"
+msgstr ""
+"external ref='figures/layout-difficult.png' "
+"md5='c38bb2ada00187cdb40b59eae1476cdd'"
+
+#: C/map.page:11(credit/years) C/map.page:16(credit/years)
+#: C/strategy.page:11(credit/years)
+msgid "2012"
+msgstr "2012"
+
+#: C/map.page:21(page/title)
+msgid "Change tile layout"
+msgstr ""
+
+#: C/map.page:23(page/p)
+msgid "There are 9 different layouts. To select a different tile layout:"
+msgstr ""
+
+#: C/map.page:26(item/p)
+msgid "Click <guiseq><gui>Mahjongg</gui><gui>Preferences</gui></guiseq>."
+msgstr ""
+
+#: C/map.page:28(item/p)
+msgid "Under <gui>Maps</gui> select a layout from the drop-down menu."
+msgstr ""
+
+#: C/map.page:30(item/p)
+msgid "Click <gui>Close</gui>"
+msgstr ""
+
+#: C/map.page:33(page/p)
+msgid ""
+"Your new tile layout will take effect immediately unless you have already "
+"started a game and chose for the effect to take place after you are finished."
+msgstr ""
+
+#: C/map.page:56(td/p)
+msgid "<em>Easy</em>"
+msgstr ""
+
+#: C/map.page:57(td/p)
+msgid "<em>The Ziggurat</em>"
+msgstr ""
+
+#: C/map.page:58(td/p)
+msgid "<em>Four Bridges</em>"
+msgstr ""
+
+#: C/map.page:81(td/p)
+msgid "<em>Cloud</em>"
+msgstr ""
+
+#: C/map.page:82(td/p)
+msgid "<em>Tic-tac-toe</em>"
+msgstr ""
+
+#: C/map.page:83(td/p)
+msgid "<em>Red Dragon</em>"
+msgstr ""
+
+#: C/map.page:106(td/p)
+msgid "<em>Pyramid's Walls</em>"
+msgstr ""
+
+#: C/map.page:107(td/p)
+msgid "<em>Confounding Cross</em>"
+msgstr ""
+
+#: C/map.page:108(td/p)
+msgid "<em>Difficult</em>"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/moves.page:29(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/moves-left.png' md5='14c686ce7c508a81d4c246091d54febc'"
+msgstr ""
+"external ref='figures/moves-left.png' md5='14c686ce7c508a81d4c246091d54febc'"
+
+#: C/moves.page:22(page/title)
+msgid "Moves left"
+msgstr "Moviments que queden"
+
+#: C/moves.page:24(page/p)
+msgid ""
+"The <gui>Moves Left</gui> counter is located on the <link xref=\"toolbar"
+"\">toolbar</link>. It displays the number of different moves that can be "
+"made. It can help you see how far you are from running out of moves, and "
+"whether you've seen all possible moves."
+msgstr ""
+
+#: C/moves.page:30(media/p)
+msgid "Mahjongg counters"
+msgstr "Comptadors del Mahjongg"
+
+#: C/pause.page:26(page/title)
+msgid "Pausing your game"
+msgstr ""
+
+#: C/pause.page:28(page/p)
+msgid "You can pause your current game using one of the following methods:"
+msgstr ""
+
+#: C/pause.page:32(item/p)
+msgid ""
+"The <gui>Pause</gui> button in the <link xref=\"toolbar\">toolbar</link>."
+msgstr ""
+
+#: C/rules.page:25(page/title)
+msgid "Rules"
+msgstr "Regles"
+
+#: C/rules.page:27(item/p)
+msgid "Tiles must be identical to be removed."
+msgstr ""
+
+#: C/rules.page:28(item/p)
+msgid "Fully and partially covered tiles cannot be matched."
+msgstr ""
+
+#: C/rules.page:29(item/p)
+msgid "Tiles must have a free long edge in order to be eligible for matching."
+msgstr ""
+
+#: C/rules.page:31(item/p)
+msgid "You can undo a move without penalty."
+msgstr ""
+
+#: C/rules.page:32(item/p) C/strategy.page:41(item/p)
+msgid ""
+"Using the <link xref=\"hints\">hint</link> option adds a 30-second penalty "
+"to your time."
+msgstr ""
+
+#: C/rules.page:34(item/p)
+msgid ""
+"If the arrangement does not allow further tiles to be matched, you will be "
+"given the option to shuffle the tiles in order to keep playing."
+msgstr ""
+
+#: C/rules.page:37(item/p) C/strategy.page:43(item/p)
+msgid "Shuffling tiles adds a 60-second penalty to your time."
+msgstr ""
+
+#: C/scoring.page:21(page/title)
+msgid "Scoring"
+msgstr "Puntuació"
+
+#: C/scoring.page:23(page/p)
+msgid ""
+"In <app>Mahjongg</app>, you are scored by how quickly you can complete a "
+"board."
+msgstr ""
+
+#: C/scoring.page:26(page/p)
+msgid "To view the highscore board:"
+msgstr ""
+
+#: C/scoring.page:28(item/p)
+msgid "Select <guiseq><gui>Mahjongg</gui><gui>Scores</gui></guiseq>"
+msgstr ""
+
+#: C/scoring.page:33(note/p)
+msgid ""
+"The scores are stored on a per <link xref=\"map\">map</link> basis. You can "
+"view the highscores for a particular map by selecting it from the drop-down "
+"menu."
+msgstr ""
+
+#: C/shortcuts.page:22(page/title)
+msgid "Keyboard shortcuts"
+msgstr "Dreceres de teclat"
+
+#: C/shortcuts.page:25(td/p)
+msgid "Fullscreen"
+msgstr "Pantalla completa"
+
+#: C/shortcuts.page:26(td/p)
+msgid "<key>F11</key>"
+msgstr "<key>F11</key>"
+
+#: C/shortcuts.page:29(td/p)
+msgid "Help"
+msgstr "Ajuda"
+
+#: C/shortcuts.page:30(td/p)
+msgid "<key>F1</key>"
+msgstr "<key>F1</key>"
+
+#: C/shortcuts.page:33(td/p)
+msgid "Hint"
+msgstr "Pista"
+
+#: C/shortcuts.page:34(td/p)
+msgid "<keyseq><key>Ctrl</key><key>H</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>H</key></keyseq>"
+
+#: C/shortcuts.page:37(td/p)
+msgid "New game"
+msgstr "Partida nova"
+
+#: C/shortcuts.page:38(td/p)
+msgid "<keyseq><key>Ctrl</key><key>N</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>N</key></keyseq>"
+
+#: C/shortcuts.page:41(td/p)
+msgid "Pause"
+msgstr "Fes una pausa"
+
+#: C/shortcuts.page:42(td/p)
+msgid "<key>Pause</key>"
+msgstr "<key>Pausa</key>"
+
+#: C/shortcuts.page:43(note/p)
+msgid ""
+"Use the <link xref=\"toolbar\">toolbar</link> <gui>Pause</gui> button if "
+"your keyboard does not have a <key>Pause</key> key."
+msgstr ""
+
+#: C/shortcuts.page:50(td/p)
+msgid "Quit"
+msgstr "Tanca"
+
+#: C/shortcuts.page:51(td/p)
+msgid "<keyseq><key>Ctrl</key><key>Q</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>Q</key></keyseq>"
+
+#: C/shortcuts.page:54(td/p)
+msgid "Redo"
+msgstr "Torna a moure"
+
+#: C/shortcuts.page:55(td/p)
+msgid "<keyseq><key>Shift</key><key>Ctrl</key><key>Z</key></keyseq>"
+msgstr "<keyseq><key>Majúscules</key><key>Ctrl</key><key>Z</key></keyseq>"
+
+#: C/shortcuts.page:58(td/p)
+msgid "Undo"
+msgstr "Desfés el moviment"
+
+#: C/shortcuts.page:59(td/p)
+msgid "<keyseq><key>Ctrl</key><key>Z</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>Z</key></keyseq>"
+
+#: C/strategy.page:21(page/title)
+msgid "Strategy"
+msgstr "Estratègia"
+
+#: C/strategy.page:23(page/p)
+msgid ""
+"Since each <link xref=\"map\">tile layout</link> requires a different "
+"approach, there is no one universal strategy. However, there are some "
+"strategy tips to keep in mind while you play:"
+msgstr ""
+
+#: C/strategy.page:28(item/p)
+msgid ""
+"The general strategy is to keep removing matching tiles in such a way that "
+"each removed tile will expose further tiles. A good strategy would be to "
+"expose new tiles with every set of tiles you match and eliminate."
+msgstr ""
+
+#: C/strategy.page:32(item/p)
+msgid ""
+"Choosing easily accessible tiles, such as those from the top levels, is not "
+"beneficial. This strategy leaves essential tiles under cover, increasing "
+"your chances of losing the game."
+msgstr ""
+
+#: C/strategy.page:35(item/p)
+msgid ""
+"Since you are <link xref=\"scoring\">scored</link> by how quickly you finish "
+"the game, time is the most important factor in the game. It is therefore "
+"important to be fast."
+msgstr ""
+
+#: C/toolbar.page:24(page/title)
+msgid "Show/hide the toolbar"
+msgstr ""
+
+#: C/toolbar.page:26(page/p)
+msgid ""
+"To show or hide the toolbar, click <guiseq><gui>Mahjongg</gui><gui>Toolbar</"
+"gui></guiseq>."
+msgstr ""
+
+#: C/toolbar.page:29(page/p)
+msgid ""
+"The toolbar, located under the menu bar, lets you perform common actions "
+"with your mouse. To use a toolbar item, just click on it. The buttons, from "
+"left to right, are <gui>New</gui> Game, <gui>Undo Move</gui>, <gui>Redo "
+"Move</gui>, <link xref=\"hints\">Hint</link> and <gui>Pause</gui>."
+msgstr ""
+
+#: C/translate.page:27(page/title)
+msgid "Help translate"
+msgstr ""
+
+#: C/translate.page:29(page/p)
+msgid ""
+"The GNOME Games user interface and documentation is being translated by a "
+"world-wide volunteer community: you are welcome to participate."
+msgstr ""
+
+#: C/translate.page:32(page/p)
+msgid ""
+"There are <link href=\"http://l10n.gnome.org/module/gnome-games/\">many "
+"languages</link> for which translations are still needed."
+msgstr ""
+
+#: C/translate.page:35(page/p)
+msgid ""
+"To start translating you will need to <link href=\"http://l10n.gnome.org"
+"\">create an account</link> and join the <link href=\"http://l10n.gnome.org/"
+"teams/\">translation team</link> for your language. This will give you the "
+"ability to upload new translations."
+msgstr ""
+
+#: C/translate.page:40(page/p)
+msgid ""
+"You can chat with GNOME translators using irc: join the #i18n chanel on the "
+"irc.gnome.org server. People on the channel are located worldwide, so you "
+"may not get an immediate response as a result of timezone differences."
+msgstr ""
+
+#: C/translate.page:44(page/p)
+msgid ""
+"Alternatively, you can contact the Internationalization Team using their "
+"<link href=\"http://mail.gnome.org/mailman/listinfo/gnome-i18n\">mailing "
+"list</link>."
+msgstr ""

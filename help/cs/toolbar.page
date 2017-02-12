@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" style="task" id="toolbar" xml:lang="cs">
+  <info>
+    <link type="guide" xref="index#tips"/>
+    <revision pkgversion="3.5.4" version="0.2" date="2012-07-26" status="final"/>
+    <credit type="author copyright">
+      <name>Tiffany Antopolski</name>
+      <email>tiffany.antopolski@gmail.com</email>
+      <years>2011</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Ekaterina Gerasimova</name>
+      <email>kittykat3756@gmail.com</email>
+    </credit>
+
+    <desc/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2009, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Jak zobrazit/skrýt nástrojovou lištu</title>
+
+  <p>Pro zobrazení či skrytí nástrojové lišty klikněte na <guiseq><gui>Mahjongg</gui> <gui>Nástrojová lišta</gui></guiseq>.</p>
+
+  <p>Nástrojová lišta umístěná pod nabídkovou lištou umožňuje provádět nejběžnější činnosti pomocí myši. Když chcete využít položku na nástrojové liště, stačí na ni kliknout. Tlačítka jsou, zleva doprava, <gui>Nová</gui> hra, <gui>Tah zpět</gui>, <gui>Tah znovu</gui>, <link xref="hints">Rada</link> a <gui>Pozastavit</gui>.</p>
+
+</page>
